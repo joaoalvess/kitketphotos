@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  Animations and Gestures Manipulation Heavy React Native App
+  Web storage and photo sharing
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaoalvess/kitketphotos.svg">
