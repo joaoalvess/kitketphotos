@@ -8,11 +8,11 @@
   Animations and Gestures Manipulation Heavy React Native App
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/kitketphotos.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaoalvess/kitketphotos.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/kitketphotos.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaoalvess/kitketphotos.svg">
 
-  <a href="https://www.codacy.com/app/lukemorales/kitketphotos?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/kitketphotos&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/joaoalvess/kitketphotos?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joaoalvess/kitketphotos&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/04db4b43120b4d05b9b39c9d2da97300.svg">
   </a>
 
