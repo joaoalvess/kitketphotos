@@ -35,7 +35,7 @@
 
 <p align="center">
   <img alt="App Demo" src="https://media.giphy.com/media/TgmzP66FR4qWWNCBEP/giphy.gif">
-  <img alt="App Demo" src="https://media.giphy.com/media/MB6sTcG4MFkOlYDA1j/giphy.gif">
+  <img alt="App Demo" src="https://media.giphy.com/media/USVY45KJoDIYDaJavR/giphy.gif">
 </p>
 
 ## :rocket: Technologies
