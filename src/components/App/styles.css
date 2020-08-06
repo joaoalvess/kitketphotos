@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+html, body, #root{
+  min-height: 100%;
+}
+body{
+  background: #282a36 !important;
+  background-size: cover;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+body, input, button{
+  font-family: 'Roboto','Open Sans', Helvetica, sans-serif;
+  font-size: 14px;
+}
+.img{
+  width: 100px;
+  margin-bottom: 20px;
+}
+#paper{
+  background: #f8f8f2;
+}
+.title{
+  font-size: 35px !important;
+  color: #282a36;
+}
+.info{
+  font-size: 20px;
+  color: #44475a;
+}
+#button{
+  color: #f8f8f2;
+  background: #282a36;
+}
+.upload{
+  font-size: 17px;
+  color: #282a36;
+  padding-top: 20px;
+}
+.folderTitle{
+  margin-top: 10px;
+  font-size: 35px;
+}
+.folderDesc{
+  font-size: 17px;
+  color: #282a36;
+}
+.process{
+  padding-top: 15px;
+  font-size: 20px;
+  text-align: center;
+}
+.folderPhotos{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.send{
+  max-width: 350px;
+  max-height: 350px;
+  justify-content: center;
+  align-content: center;
+}
+.folderImages{
+  width: 300px;
+  max-height: 450px;
+  justify-content: center;
+  align-content: center;
+}
+#photoButtons{
+  background: #282a36;
+  color: #f8f8f2;
+  margin-bottom: 30px;
+  width: 120px;
+  margin-left: 10px;
+}
+#photoButtons:hover{
+	background: #44475a;
+}
+#folderButton{
+  color: #f8f8f2;
+  background: #282a36;
+  font-size: 20px;
+  padding: 5px;
+  margin: 10px;
+  margin-top: 15px;
+  width: 300px;
+}
+#folderButton:hover{
+	background: #44475a;
+}
+#homepageBackButton{
+  font-size: 16px;
+  color: #282a36;
+  margin-right: 270px;
+}
