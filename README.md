@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="photo" src="./src/assets/camera.png" />
+    <img alt="photo" src="./src/assets/camera.png" width="200" height="200" />
     <br>
     Kitket Photos
 </h1>
@@ -16,7 +16,6 @@
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/04db4b43120b4d05b9b39c9d2da97300.svg">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaoalvess/kitketphotos.svg">
   <a href="https://github.com/joaoalvess/kitketphotos/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaoalvess/kitketphotos.svg">
   </a>
@@ -35,8 +34,8 @@
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="https://res.cloudinary.com/joaoalvess/image/upload/v1563901304/readme_logos/designcode_screen_01_nxrabs.gif">
-  <img alt="App Demo" src="https://res.cloudinary.com/joaoalvess/image/upload/v1563901538/readme_logos/designcode_screen_02_kuvvwt.gif">
+  <img alt="App Demo" src="https://media.giphy.com/media/TgmzP66FR4qWWNCBEP/giphy.gif">
+  <img alt="App Demo" src="https://media.giphy.com/media/MB6sTcG4MFkOlYDA1j/giphy.gif">
 </p>
 
 ## :rocket: Technologies
