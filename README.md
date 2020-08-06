@@ -43,18 +43,11 @@
 
 This project was developed with the following technologies:
 
--  [Expo](https://expo.io/)
--  [React-Native](https://facebook.github.io/react-native/)
--  [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
--  [React Navigation](https://reactnavigation.org/)
--  [Redux](https://redux.js.org/)
--  [GraphQl](https://graphql.org/learn/)
--  [Apollo](https://www.apollographql.com/)
--  [styled-components](https://www.styled-components.com/)
--  [react-native-showdown](https://github.com/jerolimov/react-native-showdown)
--  [@expo/vector-icons](https://expo.github.io/vector-icons/)
--  [expo-linear-gradient](https://docs.expo.io/versions/latest/sdk/linear-gradient/)
--  [PropTypes](https://github.com/facebook/prop-types)
+-  [React](https://pt-br.reactjs.org)
+-  [Firebase](https://firebase.google.com/?hl=pt-br)
+-  [React-router-dom](https://reactrouter.com/web/guides/quick-start)
+-  [@material-ui/icons](https://material-ui.com/pt/components/material-icons/)
+-  [React-copy-to-clipboard](https://www.npmjs.com/package/react-copy-to-clipboard)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
